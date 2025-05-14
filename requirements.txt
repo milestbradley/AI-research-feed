@@ -1,0 +1,4 @@
+arxiv
+openai
+notion-client
+python-dotenv
